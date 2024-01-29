@@ -1,0 +1,23 @@
+{
+  "name": "apprestapi",
+  "version": "1.0.0",
+  "description": "Aplikasi API Hadirat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hadirat/apprestapihadirat.git"
+  },
+  "keywords": [
+    "restapi",
+    "nodejs"
+  ],
+  "author": "Hadirat Iman Putra Ndruru",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hadirat/apprestapihadirat/issues"
+  },
+  "homepage": "https://github.com/Hadirat/apprestapihadirat#readme"
+}
